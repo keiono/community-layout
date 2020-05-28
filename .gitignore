@@ -145,3 +145,10 @@ cython_debug/
 .bash_history
 
 .DS_Store
+
+*.cys
+*.png
+*.cyjs
+*.pdf
+
+.jupyter
